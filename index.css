@@ -97,3 +97,12 @@ button:hover {
   font-family: monospace;
   margin: 3px;
 }
+
+img{
+  width: 195px !important;
+  height: 192px;
+}
+
+.like-btn{
+  cursor: pointer;
+}
